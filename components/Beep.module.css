@@ -1,0 +1,24 @@
+.beep {
+  margin: 12px;
+}
+
+.beep2 {
+  background-color: #fafafa;
+}
+
+.profilePicture {
+  width: 6%;
+  border-radius: 50%;
+}
+
+.authorName {
+  margin: 10px;
+}
+
+.date {
+  color: rgb(82, 82, 82);
+  position: absolute;
+  right: 1px;
+  width: 150px;
+  font-size: 15px;
+}

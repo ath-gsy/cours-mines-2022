@@ -1,5 +1,5 @@
-import Head from "next/head";
-import Link from "next/link";
+import Head from 'next/head';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -63,6 +63,9 @@ export default function Home() {
               </li>
               <li>
                 <Link href="exercices/twitter">Twitter</Link>
+              </li>
+              <li>
+                <Link href="exercices/beeper/home">Beeper</Link>
               </li>
             </ul>
           </div>
