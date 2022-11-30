@@ -1,25 +1,29 @@
 .beep {
-    margin-bottom: 10px;
-    background: linear-gradient(#e66465, #9198e5);
+  margin-bottom: 10px;
+  background: linear-gradient(#e66465, #9198e5);
 }
 
 .beepTitle {
-    display:flex;
+  display: flex;
 }
 
 .date {
-    margin-left: auto;
-    font-size: 12px;
-    font-weight: normal;
+  margin-left: auto;
+  font-size: 12px;
+  font-weight: normal;
 }
 
 .profilePicture {
-    border-radius: 50%;
-    height: 25px;
-    width: 25px;
-    margin-right: 10px;
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
 }
 
 .likeCount {
-    color: red;
+  color: red;
+}
+
+.button {
+  opacity: 50%;
 }
